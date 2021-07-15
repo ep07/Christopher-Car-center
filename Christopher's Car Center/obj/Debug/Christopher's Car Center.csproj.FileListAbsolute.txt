@@ -1,0 +1,10 @@
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\bin\Debug\Christopher's Car Center.exe.config
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\bin\Debug\Christopher's Car Center.exe
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\bin\Debug\Christopher's Car Center.pdb
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher's Car Center.csproj.AssemblyReference.cache
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher_s_Car_Center.Form1.resources
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher_s_Car_Center.Properties.Resources.resources
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher's Car Center.csproj.GenerateResource.cache
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher's Car Center.csproj.CoreCompileInputs.cache
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher's Car Center.exe
+C:\Users\Faique\source\repos\Christopher's Car Center\Christopher's Car Center\obj\Debug\Christopher's Car Center.pdb
